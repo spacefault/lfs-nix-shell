@@ -1,0 +1,5 @@
+*
+!.gitignore
+!flake.nix
+!flake.lock
+!version-check.sh
